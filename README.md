@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManishkumarDas625
+- 👋 Hi, I’m @Manish kumar Das
 - 👀 I’m interested in Developing things in Programming Language
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
